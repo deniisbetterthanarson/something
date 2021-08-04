@@ -1,0 +1,3 @@
+Toggle = "M" --- Change the key, for the one you like to close the GUI
+
+loadstring(game:HttpGet("https://god-x.000webhostapp.com/linkAnimatorEdit.lua", true))()
