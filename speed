@@ -1,0 +1,11 @@
+-- // Da Hood Fake Macro
+-- // Support ; EOT#0708
+-- // Works on synapse X, sirhurt and krnl
+
+getgenv().TeclasWS = {
+    ["tecla1"] = "M", -- faster speed +5
+    ["tecla2"] = "N", -- lower speed -5
+    ["tecla3"] = "P" -- toggle off/on
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/misamiru/dahood_scripts/master/daHood_WSChangerNEW2.lua",true))() 
